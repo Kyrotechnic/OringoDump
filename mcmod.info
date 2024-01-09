@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "mod",
+    "name": "Mod",
+    "description": "",
+    "version": "1.9.1",
+    "mcversion": "1.8.9",
+    "updateUrl": "",
+    "authorList": [
+      ""
+    ],
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
